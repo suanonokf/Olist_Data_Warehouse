@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba6a48b-527e-4dab-8a84-e84b15d449fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Olist_Data_Warehouse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_customers_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_geolocation_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_order_items_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_order_payments_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_order_reviews_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_orders_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_products_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/olist_sellers_dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_dataset/product_category_name_translation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +33,15 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/SUANON O.K Fadil/PycharmProjects/Olist_Data_Warehouse"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SUANON O.K Fadil\PycharmProjects\Olist_Data_Warehouse" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
